@@ -13,4 +13,6 @@ img {
 ul {
     list-style-type: none;
     font-size: 1.4em;
+    width: 50%;
+    margin: 1em auto;
 }
