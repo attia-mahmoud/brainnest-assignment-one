@@ -16,3 +16,8 @@ ul {
     width: 50%;
     margin: 1em auto;
 }
+
+body > a {
+    font-size: 1.3em;
+}
+
